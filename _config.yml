@@ -1,10 +1,10 @@
 #-------------------------------------------------------------------------------------
 # site settings
 #-------------------------------------------------------------------------------------
-version: 2 # increment version to force a site rebuild and update Recent News even if content is unchanged
+version: 3 # increment version to force a site rebuild and update Recent News even if content is unchanged
 title: EEL # in top navigation bar (navbar) and <head>
 description: Economics Education Laboratory, Cornell University # description in <head>
-author: Doug Mckee and Tuan Anh Dang                   # for copyright statement in footer
+author: Doug McKee and Tuan Anh Dang                   # for copyright statement in footer
 url: "https://tunadang.github.io" # no slash at the end
 # baseurl: "/sitename"              # only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                     # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
