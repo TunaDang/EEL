@@ -7,8 +7,8 @@
 - text: Projects # extended project descriptions in _projects .md files
   href: /projects/  
 
-- text: Team # simpler data set set in team.yml
-  href: /Team/ 
+- text: Team # simpler data set set in people.yml
+  href: /People/ 
 
 - text: Publications # simpler data set set in publications.yml
   href: /publications/ 
