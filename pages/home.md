@@ -8,7 +8,7 @@ permalink: /
 ---
 
 <style>mark{ color:rgb(200,0,0); background-color:white; }</style>
-> <mark>This is the home to Economics Education research group at Cornell, focuses on undergraduate learning</mark> [EEL](https://github.com/TunaDang/EEL) <mark> Jekyll theme for GitHub Pages.</mark>
+> <mark>This is the under-construction home to Economics Education research group at Cornell, focuses on undergraduate learning</mark> [EEL](https://github.com/TunaDang/EEL) <mark> Jekyll theme for GitHub Pages.</mark>
 
 Welcome to the web site of the Economics Education laboratory.
 Here is some general information about our group

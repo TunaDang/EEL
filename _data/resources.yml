@@ -17,11 +17,20 @@
 #   badges:
 #     - TYPE=ID # e.g. person=John_Doe, project=project1 (no spaces)
 
-- id: cell_protocol # internal identifier used in newsfeed posts and other places
-  title: Cell Protocol
-  type: protocol
-  description: This is an important protocol for handling cells the way we do it. This is an important protocol for handling cells the way we do it. This is an important protocol for handling cells the way we do it. This is an important protocol for handling cells the way we do it. This is an important protocol for handling cells the way we do it. This is an important protocol for handling cells the way we do it. This is an important protocol for handling cells the way we do it. This is an important protocol for handling cells the way we do it. This is an important protocol for handling cells the way we do it. This is an important protocol for handling cells the way we do it. This is an important protocol for handling cells the way we do it. This is an important protocol for handling cells the way we do it. This is an important protocol for handling cells the way we do it. This is an important protocol for handling cells the way we do it.
-  url: https://link.to.protocol/
+- id: standard_assessment # internal identifier used in newsfeed posts and other places
+  title: Standard Assessment
+  type: assessment
+  description: Standard assessments of student learning have been vital to quantifying the effectiveness of different teaching methods. In addition to allowing instructors to evaluate whether learning improves in response to teaching changes, an objective formal assessment given at the beginning of the term allows instructors of advanced courses to evaluate student preparedness and tailor their teaching accordingly. In 2022 we launched econ-assessments.org which hosts nine standard assessments developed at Cornell for commonly taught economics courses and allows instructors worldwide to set up any of these assessments for their students. Instructors get a link to their chosen assessment that can be shared with students, and students take the timed assessment when they follow the link. At the end of the test-taking period, instructors receive a report that summarizes performance in aggregate and by learning goal.
+  url: https://econ-assessments.org/
   badges:
-    - person=John_Doe
-    - project=project3
+    - person=Dough_McKee, Steven Zhu, George Orlov 
+    - project=econ-assessments.org
+
+- id: learning_goals # internal identifier used in newsfeed posts and other places
+  title: Learning Goals
+  type: goals
+  description: Working closely with our instructors, we have documented the learning goals for  every required course in our undergraduate major. While they are certainly not appropriate for courses taught at every institution, we share them here as they can be a good starting point for other instructors looking to document the goals of their courses.
+  url: https://www.dropbox.com/home/ALI/learning-goals
+  badges:
+    - person=Course_instructors, Students
+    - project=learning_goals

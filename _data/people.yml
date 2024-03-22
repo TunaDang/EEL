@@ -34,7 +34,7 @@
 #-------------------------------------------------------------------------------------
 - id: Douglas McKee # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: Douglas McKee # as display on the web page People item
-  role: Head Researcher # will appear next to name
+  role: Lab Director # will appear next to name
   image: assets/images/people/doug-mckee.jpg # can be external link
   orcid: null #0000-0000-0000-0000
   email: douglas.mckee@cornell.edu
@@ -44,7 +44,7 @@
 
 - id: George Orlov # used internally to identify this person, e.g., in a Newsfeed post "people" field
   name: George Orlov # as display on the web page People item
-  role: Head Researcher # will appear next to name
+  role: Lab Director # will appear next to name
   image: assets/images/people/george-orlov.png # can be external link
   orcid: null #0000-0000-0000-0000
   email: george.orlov@cornell.edu
